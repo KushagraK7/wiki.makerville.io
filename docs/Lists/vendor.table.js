@@ -34,6 +34,13 @@ export const vendors = [
 	address:"No.81, Ashwath Nagar, Thanisandra Main Road, Bangalore 560077."
 
     },
+	{
+	name: "Turbo 3DP",
+	type: "3D Printing Services",
+	city: "Jabalpur",
+	url: "https://turbo3dp.odoo.com/",
+	address: "Ricchai Industrial Area, Jabalpur, Madhya Pradesh",
+	},
     {
 	name: "MG Super Labs",
 	type: "Components",
